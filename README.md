@@ -2,10 +2,10 @@
  <p align="center">Estudante de Desenvolvimento Web Full Stack</p>
 
 <a href="https://github.com/JuniorSX/github-readme-stats">
-  <img height="212em" align="left" src="https://github-readme-stats.vercel.app/api?username=JuniorSX&count_private=true&show_icons=true&theme=transparent" />
+  <img height="213em" align="left" src="https://github-readme-stats.vercel.app/api?username=JuniorSX&count_private=true&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/JuniorSX">
-  <img height="212em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSX&theme=transparent" />
+  <img height="213em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSX&theme=transparent" />
 </a>
 
 ##
