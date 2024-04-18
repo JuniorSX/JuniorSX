@@ -1,5 +1,5 @@
 <h2 align="center">Junior Souza</h2>
- <p align="center">Estudante de Desenvolvimento Web Full Stack</p>
+ <p align="center">Desenvolvedor Web Full Stack</p>
 
 <a href="https://github.com/JuniorSX/github-readme-stats">
   <img height="214em" align="left" src="https://github-readme-stats.vercel.app/api?username=JuniorSX&count_private=true&show_icons=true&theme=transparent" />
